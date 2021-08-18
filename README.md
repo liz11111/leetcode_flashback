@@ -13,6 +13,7 @@ Leetcode佛系学习小组
 
 
 Schedule (Ordered by the sequence)
+
 0. The Analysis on Time Complicity and Space Complicity (refer to CS61b or other materials)
 1. Array
 2. Stack
@@ -29,7 +30,7 @@ Schedule (Ordered by the sequence)
 13. General BFS
 14. Graph (Dijikastra, Floyd-Warshall, Bellman-Ford)
 15. Dynamic Programming (too many things, and maybe too far away)
-16. Design
+16. Design Data Structure (LRU/LFU/SkipList)
 
 
 Resource：
@@ -45,4 +46,4 @@ Resource：
 
 大家都是转专业，不会的地方肯定很多，所以这个repo的初衷是让大家抱团一起走下去（如果科班选手的话出门左转残酷群等着你）。因为现在没人带着我们刷，每个人都会遇到很多问题，所以还是希望大家有问题的时候会多多交流，包括刷不下去的时候也可以聊一聊听听别人怎么想。
 
-Again，这是个佛系学习小组（当然我们不是个交流如何养鸽小组），希望大家快乐（当然如果能不要鸽就更好了）。
+Again，这是个佛系学习小组（当然我们不是个交流如何养鸽小组），希望大家快乐（如果能不要咕咕咕就更好了）。
