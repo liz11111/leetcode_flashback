@@ -23,11 +23,13 @@ Schedule (Ordered by the sequence)
 8. Sliding Window
 9. Binary Search
 10. Heap
-11. General DFS
-12. General BFS
-13. Graph (Dijikastra, Floyd-Warshall, Bellman-Ford)
-14. Dynamic Programming (too many things, and maybe too far away)
-15. Design
+11. Sorting
+12. General DFS
+13. General BFS
+14. Graph (Dijikastra, Floyd-Warshall, Bellman-Ford)
+15. Dynamic Programming (too many things, and maybe too far away)
+16. Design
+
 
 Resource：
 市面上resource太多了，不管是中文resource还是英文resource。其实resource大多数都是殊途同归，选一个喜欢的看一看就好，但是有几个还是很推荐的
@@ -36,7 +38,9 @@ Resource：
 2. 微信公众号：宫水三叶的刷题日记
 3. 花花酱 https://zxi.mytechroad.com/blog/leetcode-problem-categories/
    题解用的C++，感觉题选的有点偏难了
-4. 
+4. 微信公众号：力扣加加
+5. CS61b by Josh Hug https://sp19.datastructur.es/
+   Berkeley的经典课程，但是讲课用的是Java，时间复杂度和空间复杂度讲的非常好，但是有些方面讲的过难了，有基础之后可以看一看
 
 大家都是转专业，不会的地方肯定很多，所以这个repo的初衷是让大家抱团一起走下去（如果科班选手的话出门左转残酷群等着你）。因为现在没人带着我们刷，每个人都会遇到很多问题，所以还是希望大家有问题的时候会多多交流，包括刷不下去的时候也可以聊一聊听听别人怎么想。
 
